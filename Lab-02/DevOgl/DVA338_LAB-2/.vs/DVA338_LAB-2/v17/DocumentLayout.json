@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Cartoon.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:DVA338_LAB-2\\Cartoon.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Cartoon.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:DVA338_LAB-2\\Cartoon.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Phong.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:DVA338_LAB-2\\Phong.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Phong.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:DVA338_LAB-2\\Phong.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\algebra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:algebra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\algebra.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:algebra.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\shaders.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5302174-C080-48F9-9AF3-FA87298659A8}|DVA338_LAB-2\\DVA338_LAB-2.vcxproj|solutionrelative:shaders.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAICAAAAAAAAAAAEwB8CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T17:18:46.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\camera.h",
+              "RelativeDocumentMoniker": "camera.h",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\camera.h",
+              "RelativeToolTip": "camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-05T22:59:45.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "camera.cpp",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\camera.cpp",
+              "RelativeDocumentMoniker": "camera.cpp",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\camera.cpp",
+              "RelativeToolTip": "camera.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T22:59:25.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "algebra.h",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\algebra.h",
+              "RelativeDocumentMoniker": "algebra.h",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\algebra.h",
+              "RelativeToolTip": "algebra.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-05T22:59:41.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "algebra.cpp",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\algebra.cpp",
+              "RelativeDocumentMoniker": "algebra.cpp",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\algebra.cpp",
+              "RelativeToolTip": "algebra.cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAhwJYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T22:59:15.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mesh.h",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\mesh.h",
+              "RelativeDocumentMoniker": "mesh.h",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\mesh.h",
+              "RelativeToolTip": "mesh.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-05T22:59:48.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mesh.cpp",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\mesh.cpp",
+              "RelativeDocumentMoniker": "mesh.cpp",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\mesh.cpp",
+              "RelativeToolTip": "mesh.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T17:18:50.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "shaders.h",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\shaders.h",
+              "RelativeDocumentMoniker": "shaders.h",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\shaders.h",
+              "RelativeToolTip": "shaders.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-05T22:59:36.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "light.h",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\light.h",
+              "RelativeDocumentMoniker": "light.h",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\light.h",
+              "RelativeToolTip": "light.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T15:56:58.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Phong.vert",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Phong.vert",
+              "RelativeDocumentMoniker": "DVA338_LAB-2\\Phong.vert",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Phong.vert",
+              "RelativeToolTip": "DVA338_LAB-2\\Phong.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T16:54:05.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Phong.frag",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Phong.frag",
+              "RelativeDocumentMoniker": "DVA338_LAB-2\\Phong.frag",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Phong.frag",
+              "RelativeToolTip": "DVA338_LAB-2\\Phong.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T16:10:48.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cartoon.vert",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Cartoon.vert",
+              "RelativeDocumentMoniker": "DVA338_LAB-2\\Cartoon.vert",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Cartoon.vert",
+              "RelativeToolTip": "DVA338_LAB-2\\Cartoon.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T16:52:16.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cartoon.frag",
+              "DocumentMoniker": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Cartoon.frag",
+              "RelativeDocumentMoniker": "DVA338_LAB-2\\Cartoon.frag",
+              "ToolTip": "C:\\ClassResources-Sem-06\\Fundamentals of Computer Graphics DVA338\\Lab-02\\DevOgl\\DVA338_LAB-2\\DVA338_LAB-2\\Cartoon.frag",
+              "RelativeToolTip": "DVA338_LAB-2\\Cartoon.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T16:10:14.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

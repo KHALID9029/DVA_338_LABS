@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\ClassResources-Sem-06\Fundamentals of Computer Graphics DVA338\Lab-02\DevOgl\DVA338_LAB-2\main.cpp(43,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\ClassResources-Sem-06\Fundamentals of Computer Graphics DVA338\Lab-02\DevOgl\DVA338_LAB-2\main.cpp(44,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  0 of 220 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DVA338_LAB-2.vcxproj -> C:\ClassResources-Sem-06\Fundamentals of Computer Graphics DVA338\Lab-02\DevOgl\DVA338_LAB-2\Release\DVA338_LAB-2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

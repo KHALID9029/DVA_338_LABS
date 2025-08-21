@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/ClassResources-Sem-06/Fundamentals of Computer Graphics DVA338/Lab-01/dva338_raytracer/RayTracer-main/out/build/x64-Debug/CMakeFiles/RayTraceRunner.dir/embed.manifest"

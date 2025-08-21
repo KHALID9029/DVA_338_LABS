@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DVA338_RayTracer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Image::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Image-Debug-9316be45014608726a27.json",
+					"name" : "Image",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Objects::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Objects-Debug-aecd489a236ef48bbfea.json",
+					"name" : "Objects",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ray::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ray-Debug-653dcb775f7ca0c9ba61.json",
+					"name" : "Ray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RayTraceRunner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RayTraceRunner-Debug-61bb215b823216c12462.json",
+					"name" : "RayTraceRunner",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RayTracer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RayTracer-Debug-02009298fb2390e56236.json",
+					"name" : "RayTracer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run-Debug-4a2c17cd1438627c0fe7.json",
+					"name" : "run",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/ClassResources-Sem-06/Fundamentals of Computer Graphics DVA338/Lab-01/dva338_raytracer/RayTracer-main/out/build/x64-Debug",
+		"source" : "C:/ClassResources-Sem-06/Fundamentals of Computer Graphics DVA338/Lab-01/dva338_raytracer/RayTracer-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

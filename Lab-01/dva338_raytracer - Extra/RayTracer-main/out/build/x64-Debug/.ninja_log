@@ -1,0 +1,26 @@
+# ninja log v6
+61	229	7671067173846211	CMakeFiles/Ray.dir/src/Triangle.cpp.obj	e19b80b9c10ca19
+28	606	7670596731630276	CMakeFiles/Image.dir/external_dependencies/libbmp/libbmp.cpp.obj	686af99f83d28103
+50	204	7671067173736097	CMakeFiles/Ray.dir/src/Ray.cpp.obj	c92089bcdd43197a
+392	436	7671067177158247	RayTracer.lib	135bd681c2a6d70a
+70	233	7671067173938420	CMakeFiles/Image.dir/src/Triangle.cpp.obj	6055a5e425e50ec1
+104	232	7671067174276293	CMakeFiles/RayTracer.dir/src/Triangle.cpp.obj	32497a4d7386a45
+56	254	7671067173791868	CMakeFiles/Ray.dir/src/Plane.cpp.obj	a8486615fc22913f
+66	234	7671067173883594	CMakeFiles/Image.dir/src/Plane.cpp.obj	e4c40d499702dc92
+82	231	7671067174055920	CMakeFiles/Objects.dir/src/Plane.cpp.obj	d0a89cf4a11714f2
+235	295	7671067175580331	Image.lib	91adb7d36852079e
+98	230	7671067174221381	CMakeFiles/RayTracer.dir/src/Plane.cpp.obj	e8cee0483c78a4cd
+115	253	7671067174384452	CMakeFiles/RayTraceRunner.dir/src/Plane.cpp.obj	b82384c5f6cd261b
+121	244	7671067174442283	CMakeFiles/RayTraceRunner.dir/src/Triangle.cpp.obj	aa04bdc0ecf411a0
+246	296	7671067175693124	Objects.lib	daa1eee7acb3fef2
+76	245	7671067173994406	CMakeFiles/Objects.dir/src/Sphere.cpp.obj	75af21251394481e
+88	245	7671067174115947	CMakeFiles/Objects.dir/src/Triangle.cpp.obj	e42e154fd0039cfb
+109	402	7671067174327055	CMakeFiles/RayTraceRunner.dir/src/Main.cpp.obj	9b886ec4462a748d
+254	305	7671067175776425	Ray.lib	bda70ffd674b61db
+93	392	7671067174165939	CMakeFiles/RayTracer.dir/src/RayTracer.cpp.obj	5f936297f53f16a4
+33	442	7670596731676843	CMakeFiles/Image.dir/src/Image.cpp.obj	cb3ec00dbcba1f00
+437	587	7671067177596080	RayTraceRunner.exe	7094cbd29bcabb2b
+49	253	7671074313738885	CMakeFiles/RayTracer.dir/src/RayTracer.cpp.obj	5f936297f53f16a4
+54	263	7671074313799847	CMakeFiles/RayTraceRunner.dir/src/Main.cpp.obj	9b886ec4462a748d
+254	301	7671074315798210	RayTracer.lib	135bd681c2a6d70a
+302	453	7671074316264775	RayTraceRunner.exe	7094cbd29bcabb2b

@@ -1,0 +1,8 @@
+C:/ClassResources-Sem-06/Fundamentals of Computer Graphics DVA338/Lab-01/dva338_raytracer/RayTracer-main/out/build/x64-Debug/CMakeFiles/Ray.dir
+C:/ClassResources-Sem-06/Fundamentals of Computer Graphics DVA338/Lab-01/dva338_raytracer/RayTracer-main/out/build/x64-Debug/CMakeFiles/Image.dir
+C:/ClassResources-Sem-06/Fundamentals of Computer Graphics DVA338/Lab-01/dva338_raytracer/RayTracer-main/out/build/x64-Debug/CMakeFiles/Objects.dir
+C:/ClassResources-Sem-06/Fundamentals of Computer Graphics DVA338/Lab-01/dva338_raytracer/RayTracer-main/out/build/x64-Debug/CMakeFiles/RayTracer.dir
+C:/ClassResources-Sem-06/Fundamentals of Computer Graphics DVA338/Lab-01/dva338_raytracer/RayTracer-main/out/build/x64-Debug/CMakeFiles/RayTraceRunner.dir
+C:/ClassResources-Sem-06/Fundamentals of Computer Graphics DVA338/Lab-01/dva338_raytracer/RayTracer-main/out/build/x64-Debug/CMakeFiles/run.dir
+C:/ClassResources-Sem-06/Fundamentals of Computer Graphics DVA338/Lab-01/dva338_raytracer/RayTracer-main/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/ClassResources-Sem-06/Fundamentals of Computer Graphics DVA338/Lab-01/dva338_raytracer/RayTracer-main/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
